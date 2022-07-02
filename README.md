@@ -7,4 +7,4 @@ Overall, because I followed along the modules closely, I didn't find this assign
 
 ![not working](./assets/images/readme-screenshot.png)
 
-![Link to Application](https://jacobmcanepa.github.io/challenge-week1/index.html#online-reputation-management)
+[Link to Application](https://jacobmcanepa.github.io/challenge-week1/index.html#online-reputation-management)
